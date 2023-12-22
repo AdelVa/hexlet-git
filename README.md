@@ -1,2 +1,1 @@
-# hexlet-git
-rep for study
+Praise the Omnissiah
